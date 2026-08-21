@@ -58,6 +58,8 @@ The organization has an overall attrition rate of 16.12% among 1,470 employees. 
 
 ## Dashboard
 
+## Dashboard Pages
+
 ### 1. HR Analysis - Employee Attrition Overview
 ![Employee Overview](dashboard_images/hr_analysis-1.jpg)
 *(Includes KPI cards for Total Employee, Attrition Rate %, Average Salary, Average Tenure, Employee Satisfaction %, Age-Group vs Attrition, Tenure-Based Retention Analysis, Department-wise Attrition, Attrition Rate by Age Group and Gender, and Attrition Rate by Job Function & Role)*
