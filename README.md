@@ -84,7 +84,7 @@ The analysis shows that employees in their early years of employment, lower-inco
 
 * Analyze employee feedback and exit interviews to better understand the reasons behind attrition.
 
-*Track attrition trends over time to see whether retention strategies are actually helping reduce   employee turnover.
+* Track attrition trends over time to see whether retention strategies are actually helping reduce   employee turnover.
 
 ---
 
