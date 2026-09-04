@@ -90,6 +90,8 @@ The analysis shows that employees in their early years of employment, lower-inco
 
 ## Author & Contacts 
 
-* **Sakshi Verma**
-* Data Analyst
-* **(Email: sakshiverma20001gmail.com)**.
+**Sakshi Verma**  
+*Aspiring Data Analyst*
+
+- **GitHub:** [@Sakshiverma555](https://github.com/Sakshiverma555)
+- **Email:** sakshiverma@gmail.com
